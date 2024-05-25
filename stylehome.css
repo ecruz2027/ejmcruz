@@ -1,6 +1,6 @@
  /*general*/
         body {
-            background-image: url('images/bg.png');
+            background-image: url('bg.png');
             background-size: cover;
             background-attachment: fixed;
         }
@@ -80,7 +80,7 @@
             overflow-x: hidden;
             overflow-y: auto;
             perspective: 300px;
-            background-image: url('images/banner.png');
+            background-image: url('banner.png');
         }
 
             .intro_screen {
@@ -246,7 +246,7 @@
             min-height: 600px;
             height: auto;
             background-color: rgb(38, 255, 0);
-            background-image: url(images/skincare.jpg);
+            background-image: url(skincare.jpg);
             background-size: cover;
             background-position: center;
             text-align: center;
@@ -257,17 +257,17 @@
 
         .flip-card:nth-of-type(2) .flip-card-front,
         .flip-card:nth-of-type(2) .flip-card-back {
-            background-image: url(images/clothing.jpg);
+            background-image: url(clothing.jpg);
         }
 
         .flip-card:nth-of-type(3) .flip-card-front,
         .flip-card:nth-of-type(3) .flip-card-back {
-            background-image: url(images/gym.jpg);
+            background-image: url(gym.jpg);
         }
 
         .flip-card:nth-of-type(4) .flip-card-front,
         .flip-card:nth-of-type(4) .flip-card-back {
-            background-image: url(images/food.jpg);
+            background-image: url(food.jpg);
         }
 
         .flip-card-front {
